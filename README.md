@@ -4,23 +4,54 @@
 
 ### Build. Learn. Improve. Repeat.
 
-*Computer Science Student • Full Stack Developer • Builder*
+**Computer Science Student • Full Stack Developer • Builder**
 
 </div>
 
 ---
 
-## 🚀 Current Projects
+<table>
+<tr>
 
-- 🚀 **Aquiles** — Productivity Platform
-- 📅 **Schedule Smart** — Smart Planner & Habit Tracker
+<td width="50%">
+
+## 🚀 Current Build
+
+### Aquiles
+
+Productivity & Billing Platform
+
+**Status:** 🟢 Building
+
+**Stack**
+
+Flutter • FastAPI • PostgreSQL
+
+</td>
+
+<td width="50%">
+
+## 🎯 Current Focus
+
+- 💻 Build real software
+- 📱 Flutter
+- ⚡ Backend
+- 🏋️ Gym
+- 📚 Learn every day
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgresql,supabase,docker,git,github,vscode,cpp,firebase&perline=6"/>
+
 </p>
 
 ---
@@ -43,11 +74,17 @@
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Featured Projects
 
-- 💜 Building real products
-- 📱 Flutter Development
-- ⚡ Backend with FastAPI
-- 🐘 PostgreSQL
-- 🏋️ Gym & Discipline
-- 📚 Continuous Learning
+| Project | Description |
+|---------|-------------|
+| 🚀 **Aquiles** | Productivity & Billing Platform |
+| 📅 **Schedule Smart** | Smart Planner & Habit Tracker |
+
+---
+
+<div align="center">
+
+### "Discipline beats motivation."
+
+</div>
