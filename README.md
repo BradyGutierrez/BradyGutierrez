@@ -1,10 +1,7 @@
+<p align="center">
+  <img src="./assets/banners/banner-v1.png" width="100%" alt="Brady Build Mode Banner">
+</p>
 <div align="center">
-
-# ⚡ BRADY // BUILD MODE
-
-### Build. Learn. Improve. Repeat.
-
-**Computer Science Student • Full Stack Developer • Builder**
 
 </div>
 
