@@ -1,24 +1,20 @@
-<h1 align="center">Hi 👋, I'm Brady</h1>
-<h3 align="center">Computer Science Student</h3>
+# 👋 Hola, soy Brady
 
-<p align="center">
-Building things, learning math and improving every day.
-</p>
+💻 **Computer Science Student**
+📍 **Arequipa, Perú**
 
----
+## 🚀 Tecnologías
 
-### 🧠 Currently learning
-- C++
-- Algorithms
-- Web Development
+* 📱 Flutter
+* ⚡ FastAPI
+* 🐘 PostgreSQL
+* ☁️ Supabase
 
-### ⚡ Interests
-- Software Development
-- Problem Solving
-- Technology
+## 🛠️ Actualmente desarrollando
 
----
+* **Aquiles**
 
-<p align="center">
-  <i>Consistency beats motivation.</i>
-</p>
+
+## 🎯 Objetivo
+
+Construir aplicaciones reales que resuelvan problemas, creando software moderno, escalable y con una excelente experiencia de usuario.
