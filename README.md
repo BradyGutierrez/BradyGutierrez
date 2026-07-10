@@ -1,23 +1,24 @@
-# 👋 Hola, soy Brady
+<h1 align="center">Hola 👋, soy Brady</h1>
 
-💻 **Computer Science Student**  
-📍 **Arequipa, Perú**
+<h3 align="center">
+Estudiante de Ciencias de la Computación • Full Stack Developer
+</h3>
+
+<p align="center">
+📍 Arequipa, Perú
+</p>
 
 ---
 
 ## 🚀 Tecnologías
 
-- 📱 Flutter
-- ⚡ FastAPI
-- 🐘 PostgreSQL
-- ☁️ Supabase
-- 🐍 Python
-- 💙 Dart
-- 🛠️ Git
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgresql,supabase,git,github,vscode,docker,firebase&perline=6"/>
+</p>
 
 ---
 
-## 📂 Actualmente desarrollando
+## 📱 Actualmente desarrollando
 
 - 🚀 Aquiles
 - 📅 Schedule Smart
@@ -26,8 +27,6 @@
 
 ## 🎯 Objetivo
 
-Construir aplicaciones reales que resuelvan problemas mediante software moderno, escalable y con una excelente experiencia de usuario.
+Construir aplicaciones modernas, escalables y con una excelente experiencia de usuario.
 
----
-
-⭐ Siempre aprendiendo y mejorando un commit a la vez.
+Siempre aprendiendo algo nuevo y mejorando un commit a la vez.
